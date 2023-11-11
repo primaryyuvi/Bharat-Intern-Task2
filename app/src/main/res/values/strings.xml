@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Temperature converter</string>
+    <string name="Heading">Enter the temperature</string>
+    <string name="Label">Temperature</string>
+    <string name="celsius">Fahrenheit to Celsius</string>
+    <string name="fahrenheit">Celsius to Fahrenheit</string>
+    <string name="Converted">Converted value is %s</string>
+    <string name="Answer">%s</string>
+</resources>
