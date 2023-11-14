@@ -36,7 +36,7 @@ Android device running Android 5.0 (API level 21) or higher.
 5) To switch between Fahrenheit and Celsius, use the toggle button.
 
 
-# Acknowledgments
+# TechStack
 
 
 Jetpack Compose - Modern Android UI toolkit.
@@ -46,5 +46,10 @@ Kotlin - Statically typed programming language for modern multiplatform applicat
 
 
 Android Studio - The official integrated development environment for Android application development.
+
+
+MVVM Architecture: Model-View-ViewModel architecture for a clean separation of concerns.
+
+
 
 # Thank you for using the Temperature Converter App!
